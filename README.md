@@ -22,7 +22,7 @@ $ pip install Pillow
 It is recommended to use Pycharm, you'll have to install the packages, but it is far more convenient.
 
 # Acknowledgement
-This work was done during our degree under the supervision of Prof. Shmuel Zaks.
+This work was done with Anya H. during our degree under the supervision of Prof. Shmuel Zaks.
 
 
 # DEMO 
