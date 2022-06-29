@@ -1,0 +1,9 @@
+Topology = ring
+Number of nodes = 10
+Optimal number of ADMs = 6
+5 Lightpaths:
+[0, 6]
+[6, 8]
+[8, 9]
+[9, 0]
+[1, 5]

@@ -1,0 +1,14 @@
+Topology = path
+Number of nodes = 20
+Optimal number of ADMs = 14
+10 Lightpaths:
+[0, 16]
+[16, 19]
+[0, 5]
+[5, 16]
+[0, 10]
+[10, 13]
+[13, 18]
+[18, 19]
+[0, 6]
+[6, 18]
