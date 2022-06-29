@@ -27,6 +27,7 @@ This work was done during our degree under the supervision of Prof. Shmuel Zaks.
 
 # DEMO 
 Welcome page
+
 ![image](https://user-images.githubusercontent.com/62480878/176378204-e2dd4d8f-1d11-4419-a01b-4be8994b252c.png)
 
 You can choose any topology you want- path or ring topology.
