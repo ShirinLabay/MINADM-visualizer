@@ -31,15 +31,18 @@ This work was done during our degree under the supervision of Prof. Shmuel Zaks.
 
 You can choose any topology you want- path or ring topology.
 After choosing you can build your own network, you can choose any size of network you want and any possible path and see the process of the coloring.
+
 ![image](https://user-images.githubusercontent.com/62480878/176379525-ae0c13af-3289-4f9c-924d-34801e901c5f.png)
 ![image](https://user-images.githubusercontent.com/62480878/176379629-4419a611-62bf-44e2-9b14-96f696ac213e.png)
 ![image](https://user-images.githubusercontent.com/62480878/176379655-64f8a3b5-37be-44d2-9f94-cef5eef37a8b.png)
 
 Another functionality is that you can compare some network over the optimal solution and see where the online algorithm MINADM colors the paths differently.
 Also, you can see the number of ADMs used using the optimal solution and the solution of the algorithm.
+
 ![image](https://user-images.githubusercontent.com/62480878/176379739-48461d78-0302-4db6-afcf-17c1163ea37a.png)
 
 The last functionallity of the software is the ratio analysis. In the thirs tab you can do two things, either to calculate the analysis on the network the user inputs or see the 3D graph where you can see the average ratio we got after running the algorithm over different sized networks and paths.
+
 ![image](https://user-images.githubusercontent.com/62480878/176379877-a010418b-bf21-4388-951f-547a7b63a92d.png)
 
 
