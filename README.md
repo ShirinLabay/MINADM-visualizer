@@ -25,6 +25,10 @@ It is recommended to use Pycharm, you'll have to install the packages, but it is
 This work was done during our degree under the supervision of Prof. Shmuel Zaks.
 
 
+# DEMO 
+## Welcome page
+![image](https://user-images.githubusercontent.com/62480878/176378204-e2dd4d8f-1d11-4419-a01b-4be8994b252c.png)
+
 
 
 
