@@ -50,5 +50,6 @@ The last functionallity of the software is the ratio analysis. In the thirs tab 
 ### ENJOY!
 
 
+
 # References
 [1] = Shalom, M., Wong, P. W., & Zaks, S. (2007, September). Optimal on-line colorings for minimizing the number of ADMs in optical networks. In International Symposium on Distributed Computing (pp. 435-449). Springer, Berlin, Heidelberg.
