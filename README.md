@@ -47,7 +47,7 @@ The last functionallity of the software is the ratio analysis. In the thirs tab 
 ![image](https://user-images.githubusercontent.com/62480878/176379877-a010418b-bf21-4388-951f-547a7b63a92d.png)
 
 
-### ENJOY
+### ENJOY!
 
 
 # References
